@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Torta de helada",
+    "price": 11,
+    "thumbnail": "https://www.tortasdecocina.com/wp-content/uploads/2018/10/torta-de-chocolate-con-queso-y-chocolate-1.jpg",
+    "id": 1
+  },
+  {
+    "title": "Torta de chocolate",
+    "price": 20,
+    "thumbnail": "https://www.tortasdecocina.com/wp-content/uploads/2018/10/torta-de-chocolate-con-queso-y-chocolate-1.jpg",
+    "id": 2
+  },
+{
+    "title": "Torta de merengue",
+    "price": 12,
+    "thumbnail": "https://www.tortasdecocina.com/wp-content/uploads/2018/10/torta-de-chocolate-con-queso-y-chocolate-1.jpg",
+    "id": 3
+  }
+]
